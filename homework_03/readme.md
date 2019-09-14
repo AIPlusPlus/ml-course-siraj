@@ -5,6 +5,6 @@
 * Build a logistic regression model using Scikit-learn
 
 
-![Fraud Detection VIZ 01](_fraud_detection_image_01.png)
+![Fraud Detection VIZ 01](fraud_detection_image_01.png)
 
-![Fraud Detection VIZ 02](_fraud_detection_image_02.png)
+![Fraud Detection VIZ 02](fraud_detection_image_02.png)
